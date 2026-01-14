@@ -1,5 +1,5 @@
 /*
-jononews by @jonchius
+jononews by @joncoded (aka @jonchius)
 /components/item.tsx
 news item template
 */

@@ -1,5 +1,5 @@
 /*
-jononews by @jonchius
+jononews by @joncoded (aka @jonchius)
 /app/(root)/not-found.tsx
 (404) file not found page
 */

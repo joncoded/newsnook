@@ -1,5 +1,5 @@
 /*
-jononews by @jonchius
+jononews by @joncoded (aka @jonchius)
 /components/navi.tsx
 breadcrumbs and "newer/older" navigation
 */

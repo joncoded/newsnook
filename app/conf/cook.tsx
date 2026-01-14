@@ -1,5 +1,5 @@
 /*
-jononews by @jonchius
+jononews by @joncoded (aka @jonchius)
 /app/(root)/conf/cook.tsx
 cookie functions for configuration conf/page.tsx
 */

@@ -1,5 +1,5 @@
 /*
-data by @jonchius
+data by @joncoded (aka @jonchius)
 /util/data.tsx
 - fetch data from hn.algolia.com API
 - date calculation utility functions

@@ -1,5 +1,5 @@
 /*
-theme toggle by @jonchius
+theme toggle by @joncoded (aka @jonchius)
 /util/theme.tsx
 theme (light mode / dark mode / etc.) toggler
 */

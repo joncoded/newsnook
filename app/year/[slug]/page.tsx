@@ -1,5 +1,5 @@
 /*
-jononews by @jonchius
+jononews by @joncoded (aka @jonchius)
 /app/(root)/year/page.tsx
 search results by year of publication
 */

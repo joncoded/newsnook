@@ -1,5 +1,5 @@
 /*
-jononews by @jonchius
+jononews by @joncoded (aka @jonchius)
 /app/(root)/term/page.tsx
 search results by user input keyword or "term"
 */

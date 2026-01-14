@@ -1,7 +1,7 @@
 'use client'
 
 /*
-"skip to main content" button by @jonchius
+"skip to main content" button by @joncoded (aka @jonchius)
 /app/util/skip.tsx
 simply add <Skip /> and the import to display a "skip to main content" button for accessibility
 */
