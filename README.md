@@ -1,11 +1,11 @@
-# jononews
+# newsnook
 
 displaying news headlines from [news.ycombinator.com](https://news.ycombinator.com) with added user configuration for topic links
 
 ## setup
 
 ```
-$ git clone https://github.com/jonchius/jononews.git
+$ git clone https://github.com/jonchius/newsnook.git
 $ npm install
 $ npm run dev
 ```

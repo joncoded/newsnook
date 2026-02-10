@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /app/(root)/about/page.tsx
 explanation of the project
 */
@@ -22,7 +22,7 @@ export default function About() {
       <MainDiv className="mt-20 text-2xl">
 
         <p>
-          <strong>Jononews</strong> : displays tech-adjacent news headlines via the <Link href="https://hn.algolia.com/api" target="_blank">Hacker News API</Link>
+          <strong>newsnook</strong> : displays tech-adjacent news headlines via the <Link href="https://hn.algolia.com/api" target="_blank">Hacker News API</Link>
         </p>
 
         <ul>

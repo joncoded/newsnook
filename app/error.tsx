@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /app/(root)/error.tsx
 (500) internal server error page
 */

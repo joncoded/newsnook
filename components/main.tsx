@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /components/main.tsx
 main or div html containers
 */

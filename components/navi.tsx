@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /components/navi.tsx
 breadcrumbs and "newer/older" navigation
 */
@@ -9,7 +9,7 @@ import { text } from "./text"
 
 export const PageNavi = ({children}: any) => {
   return (
-    <nav className="navi-wrap bg-gradient-to-b from-green-500 to-green-400 fixed w-full z-30 p-5 shadow-xl">
+    <nav className="navi-wrap bg-gradient-to-b from-green-500 to-green-400 fixed w-full z-30 py-2 px-5 shadow-xl">
       <div className="navi-prop max-w-screen-xl mx-auto">
         <div className="navi-flex flex justify-between items-center gap-5">
           {children}

@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /app/(root)/conf/page.tsx
 configuration for users
 - set points threshold to filter news items by points (votes)

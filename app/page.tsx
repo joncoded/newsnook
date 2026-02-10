@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /app/(root)/page.tsx
 (200) home page with latest news items
 - optionally filtered by user-configured points threshold cookie

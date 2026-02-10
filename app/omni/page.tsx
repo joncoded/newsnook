@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /app/(root)/omni/cook.tsx
 container page with omnisearch form
 */

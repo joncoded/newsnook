@@ -1,12 +1,12 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /components/text.tsx
 text strings for localization potential
 */
 
 export const site = {
   "title emoji": "📰",
-  "title" : "JONONEWS",
+  "title" : "NewsNook",
   "tagline" : "the news your way",
 }
 

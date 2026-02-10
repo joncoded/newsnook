@@ -1,5 +1,5 @@
 /*
-jononews by @joncoded (aka @jonchius)
+newsnook by @joncoded (aka @jonchius)
 /components/menu-find.tsx
 search form component for navi.tsx in head.tsx
 */
