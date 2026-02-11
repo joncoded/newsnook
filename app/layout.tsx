@@ -49,8 +49,7 @@ export default function RootLayout({
 
   return (
     <html lang="en" data-arp="" suppressHydrationWarning>
-      <head>
-        <link rel="shortcut icon" href={`/favicon.png?v=${Date.now()}`} />
+      <head>        
         <script dangerouslySetInnerHTML={{ __html: setInitialTheme }} />
       </head>
       <body>
