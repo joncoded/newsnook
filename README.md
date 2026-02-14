@@ -8,9 +8,9 @@ a news headlines list-er and narrow-downer for [Hacker News](https://news.ycombi
 
 ## Forewords
 
-Wanted to gather worldly (and wordy) news in a cleaner way, I built this "wrapper" of [Hacker News](https://news.ycombinator.com)
+Wanted to gather worldly (and wordy) news in a cleaner way, I built this "wrapper" of [Hacker News](https://news.ycombinator.com)...
 
-Compare this:
+Let's match up this: 
 
 ![screenshot of hacker news home page](./public/readme/screenshot0.png)
 
@@ -18,13 +18,15 @@ with this:
 
 ![screenshot of newsnook home page](./public/readme/screenshot1.png)
 
+Some may want the former, while I made the latter? Why? Well...
+
 ## Hallmarks
 
 ![screenshot of newsnook home page](./public/readme/screenshot3.png)
 
 This web work has: 
 
-*   a "home page" that shows the latest news 
+*   a "home page" that shows the latest news with a more "roomy" feel
     
 *   an "omni search page" that narrows down news by
     
@@ -41,6 +43,8 @@ This web work has:
        *   nooks ("topic filters") in the home page
         
        *   points ("votes") threshold
+  
+So, it not only "looks good" but also does some "work" with the news ;)
 
 ![screenshot of newsnook home page](./public/readme/screenshot4.png)
         
