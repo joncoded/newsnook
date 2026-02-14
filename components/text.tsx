@@ -35,7 +35,7 @@ export const text = {
   "configuration" : "configuration",
   "configure this page" : "configure this page",
   "configuration intro" : "customize this site! using this page implies you agree to have these cookies on your computer:",
-  "your terms" : "your topics",   
+  "your terms" : "your nooks",   
   "your terms description": "list of keywords to put on the menu separated by commas (e.g. ai, startup, javascript)",
   "points threshold" : "points threshold",
   "points threshold description" : "how many points (votes) does a news item must have to appear on this site?",
