@@ -1,6 +1,6 @@
 # NewsNook
 
-nesting the daily news in a more restful way
+nesting hacker news in a more meaningful way
 
 ![screenshot of newsnook home page](./public/readme/screenshot1.png)
 
