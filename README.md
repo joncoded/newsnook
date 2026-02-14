@@ -1,58 +1,87 @@
 # NewsNook
 
-a web app that lists and links news headlines from [hacker news](https://news.ycombinator.com), along with additional user options: 
+nesting the daily news in a more restful way
 
 ![screenshot of newsnook home page](./public/readme/screenshot1.png)
 
-## Demo
+a news headlines list-er and narrow-downer for [Hacker News](https://news.ycombinator.com)
 
-Run the demo on
+## Forewords
 
-* [newsnook.joncoded.com](https://newsnook.joncoded.com)
-* [newsnook.vercel.app](https://newsnook.vercel.app)
+Wanted to gather worldly (and wordy) news in a cleaner way, I built this "wrapper" of [Hacker News](https://news.ycombinator.com)
 
-## Features
+Compare this:
+
+![screenshot of hacker news home page](./public/readme/screenshot0.png)
+
+with this:
+
+![screenshot of newsnook home page](./public/readme/screenshot1.png)
+
+## Hallmarks
 
 ![screenshot of newsnook home page](./public/readme/screenshot3.png)
 
-*   home page that shows the latest articles
+This web work has: 
+
+*   a "home page" that shows the latest news 
     
-*   "omni search page" that allows filtering by
+*   an "omni search page" that narrows down news by
     
-    *   keyword
+    *   keywords
         
-    *   vote count threshold
+    *   points ("votes") threshold
         
-    *   date
+    *   day ("from" and "to")
         
-*   "configuration page" 
+*   a "configuration page" 
       
-    *  uses cookies to save a user's:
+    *  uses "cookies" to hold:
     
-       *   home page "quick topic filter" menu
+       *   nooks ("topic filters") in the home page
         
-       *   vote count threshold
+       *   points ("votes") threshold
 
 ![screenshot of newsnook home page](./public/readme/screenshot4.png)
         
-*   full screen menu 
+*   a full screen "menu" 
    
 ![screenshot of newsnook home page](./public/readme/screenshot2.png)
 
-*   dark mode
+*   a light / dark / "system" layout
 
 ![screenshot of newsnook home page](./public/readme/screenshot3.png)
 
-## Frameworks
+This web work makes note of: 
 
-- [Next.js](https://nextjs.org/docs)
-- [Tailwind CSS](https://tailwindcss.com/docs/installation)
-- [Hacker News API](https://hn.algolia.com/api)
+* front-end: 
+  * [Next.js](https://nextjs.org/docs)
+  * [Tailwind CSS](https://tailwindcss.com/docs/installation)
+* back-end:
+  *  [Hacker News API](https://hn.algolia.com/api)
+
+## Runtimes
+
+Run the build on either:
+
+<a href="https://newsnook.joncoded.com" target="_blank"><button>newsnook.joncoded.com</button></a>
+
+or
+
+<a href="https://newsnook.vercel.app" target="_blank"><button>newsnook.vercel.app</button></a>
 
 ## Setup
+
+Truly, there isn't much to it ... go run these in "Terminal": 
 
 ```
 $ git clone https://github.com/jonchius/newsnook.git
 $ npm install
 $ npm run dev
 ```
+
+Then, hack at will...
+
+## Thanks
+
+* [Hacker News API](https://hn.algolia.com/api) for the news
