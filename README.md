@@ -4,7 +4,7 @@ nesting hacker news in a more meaningful way
 
 ![screenshot of newsnook home page](./public/readme/screenshot1.png)
 
-a news headlines list-er and narrow-downer for [Hacker News](https://news.ycombinator.com)
+a Next.js news headlines list-er and narrow-downer for [Hacker News](https://news.ycombinator.com)
 
 ## Forewords
 

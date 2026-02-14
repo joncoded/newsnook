@@ -7,7 +7,7 @@ text strings for localization potential
 export const site = {
   "title emoji": "📰",
   "title" : "NewsNook",
-  "tagline" : "the news your way",
+  "tagline" : "nesting hacker news in a more meaningful way",
 }
 
 export const text = {
