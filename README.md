@@ -8,13 +8,11 @@ a Next.js news headlines list-er and narrow-downer for [Hacker News](https://new
 
 ## Forewords
 
-Wanted to gather worldly (and wordy) news in a cleaner way, I built this "wrapper" of [Hacker News](https://news.ycombinator.com)...
-
-Let's match up this: 
+Wanted to gather worldly (and wordy) news in a cleaner way, so I took this "original":
 
 ![screenshot of hacker news home page](./public/readme/screenshot0.png)
 
-with this:
+and matched it up with my own layout:
 
 ![screenshot of newsnook home page](./public/readme/screenshot1.png)
 
