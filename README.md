@@ -2,7 +2,7 @@
 
 nesting hacker news in a more meaningful way
 
-![screenshot of newsnook home page](./public/readme/screenshot1.png)
+![screenshot of newsnook home page](./public/images/readme/screenshot1.png)
 
 a Next.js news headlines list-er and narrow-downer for [Hacker News](https://news.ycombinator.com)
 
@@ -10,17 +10,17 @@ a Next.js news headlines list-er and narrow-downer for [Hacker News](https://new
 
 Wanted to gather worldly (and wordy) news in a cleaner way, so I took this "original":
 
-![screenshot of hacker news home page](./public/readme/screenshot0.png)
+![screenshot of hacker news home page](./public/images/readme/screenshot0.png)
 
 and matched it up with my own layout:
 
-![screenshot of newsnook home page](./public/readme/screenshot1.png)
+![screenshot of newsnook home page](./public/images/readme/screenshot1.png)
 
 Some may want the former, while I made the latter? Why? Well...
 
 ## Hallmarks
 
-![screenshot of newsnook home page](./public/readme/screenshot3.png)
+![screenshot of newsnook home page](./public/images/readme/screenshot3.png)
 
 This web work has: 
 
@@ -44,15 +44,15 @@ This web work has:
   
 So, it not only "looks good" but also does some "work" with the news ;)
 
-![screenshot of newsnook home page](./public/readme/screenshot4.png)
+![screenshot of newsnook home page](./public/images/readme/screenshot4.png)
         
 *   a full screen "menu" 
    
-![screenshot of newsnook home page](./public/readme/screenshot2.png)
+![screenshot of newsnook home page](./public/images/readme/screenshot2.png)
 
 *   a light / dark / "system" layout
 
-![screenshot of newsnook home page](./public/readme/screenshot3.png)
+![screenshot of newsnook home page](./public/images/readme/screenshot3.png)
 
 This web work makes note of: 
 
