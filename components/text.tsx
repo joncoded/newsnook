@@ -35,7 +35,7 @@ export const text = {
   "configuration" : "settings",
   "configure this page" : "your settings",
   "configuration intro" : "Make this site more for you! (Should you input anything, you have then said 'yes' to the cookies!)",
-  "your terms" : "set your nooks (topics)",   
+  "your terms" : "your nooks (topics)",   
   "your terms description": "list of keywords to put on the menu separated by commas (e.g. ai, startup, javascript)",
   "points threshold" : "set score threshold",
   "points threshold description" : "what score (# of votes) does a headline must have to show up on the home feed?",
