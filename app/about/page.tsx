@@ -22,29 +22,29 @@ export default function About() {
       <MainDiv className="mt-20 text-2xl">
 
         <p>
-          <strong>newsnook</strong> : displays tech-adjacent news headlines via the <Link href="https://hn.algolia.com/api" target="_blank">Hacker News API</Link>
+          <strong>newsnook</strong> : shows a list of <em>nerd-minded</em> news headlines from the <Link href="https://hn.algolia.com/api" target="_blank">Hacker News API</Link>
         </p>
 
         <ul>
-          <li>Original : started with just a <strong>simple homepage list</strong> (like the <Link href="https://news.ycombinator.com/" target="_blank">Hacker News home page</Link>) then allowed:
+          <li>Groundbreaking : started with only a <strong>home page list</strong> (like the <Link href="https://news.ycombinator.com/" target="_blank">Hacker News home page</Link>) then allowed:
             <ul>
-              <li><strong>filtering by keyword</strong>: press command-K to filter by term, e.g. <Link href="/term/LLM">LLM</Link>!</li>
-              <li><strong>filtering by year</strong>: e.g. <Link href="/year/2022">2022</Link> or <Link href="/year/2021">2021</Link> all the way back to <Link href="/year/2006">2006</Link></li>
-              <li><strong>filtering by multiple variables</strong>: aka <Link href="/omni/">Omni</Link> search</li>
-              <li><strong>dark mode toggle</strong>: (inside the menu)</li>
-              <li><strong>full-screen menu</strong>: (press command-slash!)</li>
-              <li><strong>URL-input compatibility</strong>: play around with the URLs in Omni to get a different filtering!</li>
+              <li><strong>look up by keyword</strong>: <em>command-K</em> for headlines by term, such as <Link href="/term/LLM">LLM</Link>!</li>
+              <li><strong>look up by year</strong>: <Link href="/year/2022">2022</Link> or <Link href="/year/2021">2021</Link> all the way back to <Link href="/year/2006">2006</Link></li>
+              <li><strong>look up by anything</strong>: with "<Link href="/omni/">Omni</Link>"" lookup</li>
+              <li><strong>"dark mode"</strong>: (inside the menu)</li>
+              <li><strong>full-screen menu</strong>: <em>command-slash</em>!)</li>
+              <li><strong>URL-input strings</strong>: play around with the URLs in "Omni" to look up other headlines!</li>
             </ul>
           </li>
-          <li>2025-10-23 : <strong><Link href="/conf">user configuration</Link></strong> and other features:
+          <li>2025-10-23 : <strong><Link href="/conf">user settings</Link></strong> and other tidbits:
             <ul>
-              <li><strong>filtering by quality score</strong> (with user input)</li>
-              <li><strong>linking to comments page</strong> (read the comments of each submitted link!)</li>
+              <li><strong>look up by "score"</strong> (with user input)</li>
+              <li><strong>linking to "comments"</strong> (read the "comments" of each link!)</li>
             </ul>
           </li>
-          <li>2025-10-24 : <strong><Link href="/conf">user configuration</Link></strong> feature:
+          <li>2025-10-24 : <strong><Link href="/conf">user settings</Link></strong> feature:
             <ul>
-              <li><strong>user customization of menu</strong> using cookies and term keywords</li>
+              <li><strong>nooks settings</strong> with cookies and term keywords</li>
             </ul>
           </li>
         </ul>
